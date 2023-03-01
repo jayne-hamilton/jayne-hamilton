@@ -23,7 +23,8 @@
 
 <br>
 
-<div align='center'><a href="https://twitter.com/jayneehamilton?ref_src=twsrc%5Etfw" align='center' class="twitter-follow-button" data-show-count="false">Follow @jayneehamilton</a><script async  src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div align='center'><a href="https://twitter.com/jayneehamilton?ref_src=twsrc%5Etfw" align='center' class="twitter-follow-button" data-show-count="false">Follow @jayneehamilton</a>
 
 <br>
 
@@ -49,7 +50,7 @@
 <td width="50%">
 <h3 align="center">Swapsies App</h3>
 <div align="center">
-<a href="https://github.com/jayne-hamilton/swapsies" target="_blank"><img src="https://github.com/jayne-hamilton/jaynehamilton/blob/main/images/image-placeholder.jpeg" width="400" alt="Swapsies App"></a>
+<a href="https://github.com/jayne-hamilton/swapsies" target="_blank"><img src="https://user-images.githubusercontent.com/102329836/222015233-c3b67e3c-0f3a-4abf-8ddc-cd7ebba04c8e.png" width="400" alt="Swapsies App"></a>
 <br>
 <br>
 <p>
@@ -65,7 +66,7 @@
                                                                                        
 <h3 align="center">To Do List</h3>
 <div align="center">
-<a href="https://github.com/jayne-hamilton/to-do-list" target="_blank"><img src="" width="400" alt="To Do List"></a>
+<a href="https://github.com/jayne-hamilton/to-do-list" target="_blank"><img src="https://user-images.githubusercontent.com/102329836/222016493-e6fcb8c2-53e7-4fab-83e2-f70e8da3aadb.png" width="400" alt="To Do List"></a>
 <br>
 <br>
 <p>
@@ -83,14 +84,14 @@
 <td width="50%">
 <h3 align="center">Portfolio Website</h3>
 <div align="center">                                       
-<a href="https://jayne-hamilton.github.io/github-repo-gallery/" target="_blank"><img src="" width="400" alt="Portfolio Website"></a>
+<a href="https://jayne-hamilton.github.io/github-repo-gallery/" target="_blank"><img src="https://user-images.githubusercontent.com/102329836/222015336-f68d2109-2f52-49ee-84d6-83d7d45f31a7.png" width="400" alt="Portfolio Website"></a>
 <br>
 <br>
 <p>
 <a href="https://github.com/jayne-hamilton/jayne-portfolio" target="_blank">
 <img src="https://img.shields.io/badge/CODE-4eb6d0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/jayne-hamilton/jayne-portfolio" target="_blank">
+<a href="https://portfolio-amber-three-91.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=2d358f">
 </a>
 </p>
@@ -99,7 +100,7 @@
 
 <h3 align="center">Birthday Countdown Clock</h3>
 <div align="center">
-<a href="https://github.com/jayne-hamilton/birthday-countdown" target="_blank"><img src="" width="400" alt="Birthday Countdown Clock"></a>
+<a href="https://github.com/jayne-hamilton/birthday-countdown" target="_blank"><img src="https://user-images.githubusercontent.com/102329836/222016481-586cbe4a-f180-4fac-aecb-057b00d80532.png" width="400"  alt="Birthday Countdown Clock"></a>
 <br>
 <br>
 <p>
