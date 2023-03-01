@@ -49,7 +49,9 @@
 <td width="50%">
 <h3 align="center">Swapsies App</h3>
 <div align="center">
-<a href="https://github.com/jayne-hamilton/swapsies" target="_blank"><img src="" width="400" alt="Swapsies App"></a>
+<a href="https://github.com/jayne-hamilton/swapsies" target="_blank"><img src="https://github.com/jayne-hamilton/jaynehamilton/blob/main/images/image-placeholder.jpeg" width="400" alt="Swapsies App"></a>
+<br>
+<br>
 <p>
 <a href="https://github.com/jayne-hamilton/swapsies" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -68,7 +70,7 @@
 <br>
 <p>
 <a href="https://github.com/jayne-hamilton/to-do-list" target="_blank">
-<img src="https://img.shields.io/badge/CODE-28bdbd?style=for-the-badge&logo=github&logoColor=black"">
+<img src="https://img.shields.io/badge/CODE-28bdbd?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/jayne-hamilton/to-do-list" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff8d5c">
