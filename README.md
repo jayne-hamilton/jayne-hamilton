@@ -72,7 +72,7 @@
 <td width="50%">
 <h3 align="center">Portfolio Website</h3>
 <div align="center">                                       
-<a href=""https://portfolio-amber-three-91.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/102329836/222015336-f68d2109-2f52-49ee-84d6-83d7d45f31a7.png" width="400" alt="Portfolio Website"></a>
+<a href="https://portfolio-amber-three-91.vercel.app/"  target="_blank"><img src="https://user-images.githubusercontent.com/102329836/222015336-f68d2109-2f52-49ee-84d6-83d7d45f31a7.png" width="400" alt="Portfolio Website"></a>
 <br>
 <br>
 <p>
