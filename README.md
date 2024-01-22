@@ -8,14 +8,6 @@
   <img src="https://media.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif" width="100"/>
 </div>
 <br>
-<div align="center">
-<a href="https://www.instagram.com/jayne.create/" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayne gram" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jayne-hamilton/" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayne-hamilton" height="30" width="40" /></a>
-<br>
-<br>
-<a href="https://twitter.com/jayneehamilton" rel="noopener noreferrer" target="_blank"><img align="center" src="https://img.shields.io/twitter/follow/:jayneehamilton.svg?style=social&label=@:jayneehamilton" alt="jayne-hamilton" height="20"  /></a>
-<br>
-<br>
 <h2 align="center">Languages and Tools:</h2>
 <br>
 <p align="center">
